@@ -1,3 +1,3 @@
-My second Repo to practice GitHub
+Careerist-Git-Homework-Samuel
 
 Hello GitHub
